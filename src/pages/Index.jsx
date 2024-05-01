@@ -24,7 +24,7 @@ const Index = () => {
 
   return (
     <Box p={5}>
-      <Text fontSize="2xl" mb={4}>Todo List</Text>
+      <Text fontSize="2xl" mb={4}>Krsitian's Todo List</Text>
       <Box display="flex" mb={4}>
         <Input
           placeholder="Add a new task"
